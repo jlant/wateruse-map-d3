@@ -9,3 +9,4 @@ The choropleth map shows total water withdrawls by state in units of million gal
 The map was built using [D3.js](http://d3js.org/) a javascript library used for data visualization.  
 
 ## Website
+http://jlant.github.io/wateruse-map-d3/
